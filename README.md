@@ -12,9 +12,6 @@ OpenCV 📷 (For camera input and image processing)
 MediaPipe 🖐 (For hand tracking)
 PyGame 🎮 (For game development)
 Installation & Setup 🏗️
-1. Clone the Repository
-git clone https://github.com/dkpython7/snake-game.git
-cd snake-game-hand-tracking
 2. Install Dependencies
 pip install opencv-python mediapipe pygame numpy
 3. Run the Game
